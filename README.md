@@ -1,9 +1,14 @@
 ## PETS
 ### DOGS
 ### ( BY: Nick Otieno and Laurette Mongina)
-#### This is  a website about pets(dogs), their age, color, breed and home.
-#### Incase you have any inquiries or contributions reach out to us on @nick.odongi@student.moringa.com or @monginalaurette@gmail.com
-#### Requirements - A browser, github and internet.
+#### ABOUT
+This is  a website about pets(dogs), their age, color, breed and home.
+#### CONTACT
+Incase you have any inquiries or contributions reach out to us on @nick.odongi@student.moringa.com or @monginalaurette@gmail.com
+#### Technologies Used
+This was done on visual studio.
+#### Requirements 
+ A browser, github and internet.
 
 
 | BREED          | AGE | COLOR | FOOD | HOME |
