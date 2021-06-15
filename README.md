@@ -1,7 +1,7 @@
 ## PETS
 ### DOGS
-### 2021
-### (Nick Otieno and Laurette Mongina)
+#### 2021
+### ( BY: Nick Otieno and Laurette Mongina)
 
 | BREED          | AGE | COLOR | FOOD | HOME |
 | -------------  | ----| ---   | ---  | ---  |
